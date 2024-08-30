@@ -10,6 +10,6 @@ fun main() {
 fun printNotificationSummary(numberOfMessages: Int) {
     when(numberOfMessages) {
         in 0..99 -> println("You have $numberOfMessages notifications.")
-        else -> println("You popular ass motherfucker. You have  99+ notifications. Turn your damn phone off bitch.")
+        else -> println("You popular af. You have  99+ notifications. ")
     }
 }
